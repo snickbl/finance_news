@@ -1,0 +1,20 @@
+  
+  header {
+      width: 100%;
+  }
+
+  .navig {
+      position: static;
+      display: flex;
+      justify-content: center;
+      background-color: #A5956D;
+      width: 100%;
+    }
+  
+  h2.intro {
+    display: inline-block;
+    margin: 10px;
+    padding-right: 750px;
+    color: aliceblue;
+    }
+  
